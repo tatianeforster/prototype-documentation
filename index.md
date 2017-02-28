@@ -7,7 +7,10 @@ title: Cubetto Prototype Documentation
 <div id="content" markdown="1">
 ##0. What is this document
 
-![photo](/images/photo/maker-guide.jpg)
+![maker guide](/images/photo/maker-guide.jpg)
+
+![primo play set](/images/photo/primo.jpg)
+
 
 This document gathers and organizes all the information necessary to build a Primo Prototype.
 You can find more info about the project on the [primo.io](http://primo.io) website.
