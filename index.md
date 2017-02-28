@@ -20,7 +20,7 @@ Teaching programming to children is a widely debated topic. We are aware of a mo
 
 Wood was chose as the main material, first of all because it's natural; you get a warm feeling from it and it makes a nice sound. The second reason is cultural. Observations were conducted on games used in traditional kindergartens in Switzerland (where the product was originally designed) to discover that the games loved by children were all made out of wood. Wooden toys are very durable and you can see marks and scratches on them, signs of their past usage from other children. It's a material with memory. Wood was also chosen as a material because of the stark contrast it creates with technology. Inside of Primo there's a circuit board, but we wanted to create a "magical" experience, hiding the complexity of the play set.
 
-<img class="float" src="{{ site.baseurl }}images/photo/logo-turtle.jpg">
+<img class="float" src="/images/photo/logo-turtle.jpg">
 
 The concept behind Primo is heavily inspired by the work of Seymour Papert, a mathematician who co-founded the MIT Artificial Intelligence Laboratory with Marvin Minsky, in the sixties (if you are interested in the subject, we encourage you to read [Mindstorms](http://www.amazon.co.uk/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746/ref=sr_1_1?ie=UTF8&qid=1393675158&sr=8-1&keywords=mindstorms+papert), his most famous book). He was directing the team who invented [LOGO](http://en.wikipedia.org/wiki/Logo_(programming_language)), probably the most used and long lasting resource to teach programming to children. The goal of Seymour Papert was not just to teach code, but also to help children discover their own personal way of solving problems. Primo can be considered an extreme simplification of LOGO and the physical turtle. We limited the instructions, to their purest form, avoiding any kind of textual or numerical language.
 
@@ -190,7 +190,7 @@ Once all the LEDs are soldered, we have to solder our hand made connectors. Thes
 ![analog input board connections](/images/illustrations/board-8.jpg)
 
 <div class="cf">
-<img class="float cf" src="{{ site.baseurl }}images/illustrations/button.jpg">
+<img class="float cf" src="/images/illustrations/button.jpg">
 
 <p>
 Here I used some single male headers, as the analog pins are all on a single line.
@@ -219,7 +219,7 @@ Same for the red button: after part 14 has been painted, put something soft like
 
 This is one instruction block, exploded:
 
-<img class="float cf" src="{{ site.baseurl }}images/illustrations/instruction-esploso.jpg">
+<img class="float cf" src="/images/illustrations/instruction-esploso.jpg">
 
 To make the Instruction Blocks, the first thing you have to do is laser cut the files, there's one for 4mm thick wood and one for 1mm wood. They are four layers, numbered from 1 to 4 and the drawings provided can be used to make 16 blocks, four of each kind.
 
@@ -277,7 +277,7 @@ The SN754410 motor driver has 16 pins that must be connected following this sche
 
 The CNY70 scheme:
 
-<img style="width:50%" src="{{ site.baseurl }}images/illustrations/cny70-wiring.jpg">
+<img style="width:50%" src="/images/illustrations/cny70-wiring.jpg">
 
 Design:
 
