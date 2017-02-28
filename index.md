@@ -183,11 +183,12 @@ The starting point is not important, as long as they are in the correct sequenti
 
 The cables are soldered to a rack of double male headers, as the digital pins on the Arduino Mega are laid out in a double line. In this way it's easy to plug and remove the Arduino from the board.
 
+![ledsscheme](/images/illustrations/board-8.jpg)
 ![rack](/images/photo/diy-docs-4.jpg)
 
 Once all the LEDs are soldered, we have to solder our hand made connectors. These must be wired to the Arduino Mega analog pins, to read the different resistor values. Just like the LEDs, these must be connected in order, starting from A0 for hole 1 to A15 for hole 16. The wire has to start from the same point where we soldered previously the 10K resistor. See the illustration:
 
-![analog input board connections](/images/illustrations/board-8.jpg)
+![analog input board connections](/images/illustrations/board-9.jpg)
 
 <div class="cf">
 <img class="float cf" src="/images/illustrations/button.jpg">
