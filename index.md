@@ -3,12 +3,13 @@
 layout: default
 title: Cubetto Prototype Documentation
 ---
+![photo]({{ site.github.url }}images/screenshots/edit-1.jpg)
 
 <div id="content" markdown="1">
 ##0. What is this document
 
 <!--![primo play set]({{ site.baseurl }}images/photo/maker-guide.jpg)-->
-![photo]({{ site.url }}images/screenshots/edit-1.jpg)
+
 This document gathers and organizes all the information necessary to build a Primo Prototype.
 You can find more info about the project on the [primo.io](http://primo.io) website.
 
