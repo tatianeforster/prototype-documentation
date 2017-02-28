@@ -2,6 +2,6 @@ name: Primo DIY Documentation
 pygments: true
 markdown: kramdown
 #baseurl: http://docs.primo.io/
-baseurl: "http://tatianeforster.github.io/prototype-documentation"
+baseurl: ""
 #baseurl: http://tatianeforster.github.io/
 theme: jekyll-theme-minimal
