@@ -4,3 +4,5 @@ markdown: kramdown
 #baseurl: http://docs.primo.io/
 baseurl: "prototype-documentation"
 #baseurl: http://tatianeforster.github.io/
+
+theme: jekyll-theme-minimal
