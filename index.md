@@ -2,6 +2,7 @@
 layout: default
 title: Cubetto Prototype Documentation
 ---
+<a href={{ site.baseurl }}>
 <div id="content" markdown="1">
 ##0. What is this document
 
