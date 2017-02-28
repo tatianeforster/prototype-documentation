@@ -3,7 +3,7 @@
 layout: default
 title: Cubetto Prototype Documentation
 ---
-![photo]({{ site.github.url }}images/screenshots/edit-1.jpg)
+![photo]({{ site.github.url }}/images/screenshots/edit-1.jpg)
 
 <div id="content" markdown="1">
 ##0. What is this document
